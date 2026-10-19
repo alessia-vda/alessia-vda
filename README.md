@@ -1,4 +1,4 @@
-# Hi, I'm Alessia 👋
+
 # Hi, I'm Alessia 👋
 
 🎓 **M2 Mathematics and Applications student** at **Sorbonne Université – ISUP**, specializing in **Data Science (SCDI track)**.
